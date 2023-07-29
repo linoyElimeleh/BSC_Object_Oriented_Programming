@@ -1,0 +1,7 @@
+﻿  MainTrain.cpp
+  str.cpp
+C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 3\Project1\Project1\str.cpp(32,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 3\Project1\Project1\str.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 3\Project1\Project1\str.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 3\Project1\Debug\Project1.exe

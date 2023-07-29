@@ -1,0 +1,8 @@
+﻿  Grid.cpp
+  Rectangle.cpp
+C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 1\Project1\Project1\Rectangle.cpp(46,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 1\Project1\Project1\Rectangle.cpp(47,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 1\Project1\Project1\Rectangle.cpp(45,15): warning C4101: 'w': unreferenced local variable
+  Generating Code...
+C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 1\Project1\Project1\Rectangle.cpp(45,12): warning C4101: 'h': unreferenced local variable
+  Project1.vcxproj -> C:\Users\97253\Desktop\לימודים\2020 סמסטר ב\תכנות מונחה עצמים\מטלות\מטלה 1\Project1\Debug\Project1.exe
